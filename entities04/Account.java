@@ -1,5 +1,7 @@
 package entities04;
 
+// public abstract class -> torna a classe totalmente abstrata,
+							//fazendo com que não possa ser instanciada
 public class Account {
 	private Integer number;
 	private String holder;
